@@ -2,7 +2,7 @@
 ## By Dennis Kimathi
 
 ## Screenshot
- ![image](./assets/images/Login.png)
+ ![image](./src/assets/images/Login.png)
 
  ## Table of Content
  - [Description](#description)
