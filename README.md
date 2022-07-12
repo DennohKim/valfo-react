@@ -30,7 +30,7 @@
 
 Use the link to find the project design.
 
-Figma Design -[Valfo-Map-Application](https://www.figma.com/file/Aycibqlg8MyOG1jUykOD3l/Valfo?node-id=503%3A50)
+Figma Design -[Valfo-Map-Application](https://www.figma.com/file/Aycibqlg8MyOG1jUykOD3l/Valfo?node-id=573%3A16)
 
 [Go Back to the top](#Valfo Map Application)
 
